@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="like_button_container">
-<img src="sssss(1)-Récupéré traits fins-Récupéré version ancienne version beta +.jpg" alt="The fuck ain't workin' mate" id="imgPrc">
+    <div class="container">
+    <img src="sssss(1)-Récupéré traits fins-Récupéré version ancienne version beta +.jpg" alt="The fuck ain't workin' mate" id="imgPrc">
     </div>
 <script src="script.js"></script>
 

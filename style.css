@@ -1,20 +1,20 @@
 body{
     background-color: black;
+    display: grid;
 }
 
 #imgPrc{
-    width: 100%;
+    display:grid;
+    width: 80%;
     size: 100vh;
-    max-width: 95%;
-    height: 100%;
+    max-width: 50%;
+
     justify-content: center;
     align-items: center;
 }
 
-.like_button_container{
-    width: 100vw;
-    height: 100vh;
+.container{
+  width: 5vw;
     display: grid;
-    justify-self: center;
-    align-items: center;
+
 }
