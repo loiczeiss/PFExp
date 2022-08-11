@@ -1,20 +1,25 @@
 body{
     
-    background: url(images/gghz.jpg);
-    background-size: 90% ;
-    background-repeat: no-repeat;
-    background-origin: initial;
-    background-color: black;
-    
-    background-position: center top; 
+   background-color: black;
+    height: 250px;
+   
 }
-
+.container{
+    width: 100%;
+    display: grid;
+    height: 100%;
+    background:red;
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+}
 .img{
-    display:grid;
-    place-content:center;
-    justify-self: center;
-    justify-content: center;
-    justify-items: center;
+    display: grid;
+    grid-template-columns: 2fr, 1fr, 2fr;
+    grid-template-rows: 1fr, 2fr, 1fr;
+    width: 100vw;
  
 }
 
