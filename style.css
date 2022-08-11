@@ -1,6 +1,6 @@
 body{
     
-    background: url(gghz.jpg);
+    background: url(images/gghz.jpg);
     background-size: 90% ;
     background-repeat: no-repeat;
     background-origin: initial;
@@ -9,14 +9,20 @@ body{
     background-position: center top; 
 }
 
-#imgPrc{
-    
-    width: 100%;
-    size: 100vh;
-    max-height:100vh;
-
-    justify-items:  center;
-    align-items: center;
+.img{
+    display:grid;
+    place-content:center;
     justify-self: center;
+    justify-content: center;
+    justify-items: center;
+ 
+}
+
+
+.title{
+    text-align: center;
+    font-size: 300%;
+    display: inline;
+    color: red;
 }
 
