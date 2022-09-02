@@ -45,7 +45,7 @@ body{
 }
 
 .title{position: relative;
-    top: 60%;
+    top: 32%;
     text-align: center;
     font-size: 400%;
     display: inline;
@@ -55,7 +55,8 @@ body{
 
 .exp{
   position: relative;
-  top: 62%;
+  top: -20%;
+  text-align: center;
 }
 
 

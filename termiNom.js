@@ -55,7 +55,7 @@ function enterKey(e) {
     if (e.keyCode == 13) {
       commands.push(command.innerHTML);
       git = commands.length;
-      addLine("consc " + command.innerHTML, "no-animation", 0);
+      addLine("consciousness@user:-$" + command.innerHTML, "no-animation", 0);
       commander(command.innerHTML.toLowerCase());
       command.innerHTML = "";
       textarea.value = "";
@@ -79,6 +79,9 @@ function enterKey(e) {
 
 function commander(cmd) {
   switch (cmd.toLowerCase()) {
+    case "drawings":
+      loopLines(drawings, "color2 margin", 80);
+      break;
     case "help":
       loopLines(help, "color2 margin", 80);
       break;
@@ -117,7 +120,7 @@ function commander(cmd) {
       addLine("<br>", "command", 80 * commands.length + 50);
       break;
     case "email":
-      addLine('Opening mailto:<a href="mailto:forrest@fkcodes.com">forrest@fkcodes.com</a>...', "color2", 80);
+      addLine('Opening mailto:<a href="mailto:loiczeiss@gmail.com">loiczeiss@gmail.com</a>...', "color2", 80);
       newTab(email);
       break;
     case "clear":
