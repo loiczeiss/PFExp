@@ -58,7 +58,7 @@ help = [
   '<span class="command">whoishe</span>        Who is Frank',
   '<span class="command">whoami</span>         Big question for a little fellow like you mate',
   '<span class="command">social</span>         Display social networks (and die)',
-  '<span class="command">secret</span>         Find the password (or die)',
+
   '<span class="command">projects</span>       View coding projects',
   '<span class="command">drawings</span>       View Drawing projects',
   '<span class="command">history</span>        View command history, your memory is in an even worst state than your face... gosh',
@@ -66,6 +66,7 @@ help = [
   '<span class="command">email</span>          Do not email me, it is not a drill, DO NOT',
   '<span class="command">clear</span>          Clear terminal and feel that splendid cathartic feeling... oh god',
   '<span class="command">banner</span>         Reenter my mind, circle my brain, enter my spirit, penetrate my soul you mulish boy',
+  '<span class="command">secret</span>         Find the password (or die)',
   "<br>",
 ];
 
