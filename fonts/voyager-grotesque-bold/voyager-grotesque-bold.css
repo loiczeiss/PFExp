@@ -1,0 +1,8 @@
+/* voyager-grotesque-bold */
+@font-face {
+	font-family: Voyager Grotesque Bold;
+	font-style: normal;
+	font-weight: 700;
+	src: local("Voyager Grotesque Bold"), local("VoyagerGrotesqueBold"), url(voyager-grotesque-bold.woff2) format("woff2");
+}
+

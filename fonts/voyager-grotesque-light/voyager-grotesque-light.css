@@ -1,0 +1,8 @@
+/* voyager-grotesque-light */
+@font-face {
+	font-family: Voyager Grotesque Light;
+	font-style: normal;
+	font-weight: 400;
+	src: local("Voyager Grotesque Light"), local("VoyagerGrotesqueLight"), url(voyager-grotesque-light.woff2) format("woff2");
+}
+

@@ -1,3 +1,6 @@
+
+
+
 html { 
     background: url(images/gghz.jpg) no-repeat 
       center center fixed; 
@@ -5,15 +8,11 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    
   }
-  @font-face {
-    font-family: 'k';
-    src: url('akira_expanded_demo-webfont.woff2') format('woff2'),
-         url('akira_expanded_demo-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+  
 
-}
+
 body{
   
    max-width: 85%;
@@ -45,18 +44,20 @@ body{
 }
 
 .title{position: relative;
-    top: 32%;
+    top: 30%;
     text-align: center;
-    font-size: 400%;
+    font-size: 300%;
     display: inline;
-    color: red;
-    font-family: akira_expandedsuper_bold
-}
+    color: rgba(254,168,17,255);
+   
+ }
 
 .exp{
   position: relative;
   top: -20%;
+  right: -140%;
   text-align: center;
+  color: orange;
 }
 
 
