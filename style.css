@@ -13,13 +13,7 @@ html {
   
 
 
-body{
-  
-   max-width: 85%;
-   background-color: rgb(2, 2, 37);
-   
-   
-}
+
 .container{
     width: 100%;
     display: grid;
@@ -44,7 +38,7 @@ body{
 }
 
 .title{position: relative;
-    top: 30%;
+    top: 18%;
     text-align: center;
     font-size: 300%;
     display: inline;
@@ -53,11 +47,9 @@ body{
  }
 
 .exp{
-  position: relative;
-  top: -20%;
-  right: -140%;
+
   text-align: center;
-  color: orange;
+  color: rgb(253, 249, 245);
 }
 
 
