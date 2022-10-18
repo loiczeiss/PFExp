@@ -23,7 +23,7 @@ my personnal information, as well as Dev Projects I did.
 https://loiczeiss.github.io/PFExp/
 ## Screenshots
 
-![App Screenshot](CaptureHomeDessin.png)
+![App Screenshot](https://github.com/loiczeiss/PFExp/blob/main/CaptureHomeDessin.PNG)
 ![App Screenshot](CaptureTerminal.png)
 
 
