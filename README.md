@@ -24,7 +24,7 @@ https://loiczeiss.github.io/PFExp/
 ## Screenshots
 
 ![App Screenshot](https://github.com/loiczeiss/PFExp/blob/main/CaptureHomeDessin.PNG)
-![App Screenshot](CaptureTerminal.png)
+![App Screenshot](https://github.com/loiczeiss/PFExp/blob/main/CaptureTerminal.PNG)
 
 
 ## Acknowledgements
