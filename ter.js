@@ -1,5 +1,4 @@
-var youtube = "https://www.youtube.com/fknight/";
-var twitter = "https://www.twitter.com/forrestpknight/";
+
 var password = "Berserkyay";
 var linkedin = "https://www.linkedin.com/in/loiczeiss/";
 var instagram = "https://www.instagram.com/franktheriviere/";
@@ -7,6 +6,9 @@ var github = "https://github.com/loiczeiss";
 var email = "mailto:loiczeiss@gmail.com";
 var figma = "https://www.figma.com/file/1zpzpT9aw0BIqSwfwxPHVp/inside-my-head?node-id=28%3A2"
 var got = "https://loiczeiss.github.io/"
+var codeclick = "https://loiczeiss.github.io/codeclick/"
+var getflix = "https://swartzflix.herokuapp.com/"
+var quote = "https://loiczeiss.github.io/quoteForFun/"
 
 whoishe = [
   "<br>",
@@ -43,6 +45,9 @@ secret = [
 projects = [
   "<br>",
   'got hangman     <a href="' + got + '" target="_blank">GoT Hangman' + '</a>',
+  'Code Click   <a href="' + codeclick + '" target="_blank">Code Click' + '</a>',
+  'Swartzflix    <a href="' + getflix + '" target="_blank">Swartzflix  ' + '</a>',
+  'QuoteGenerator    <a href="' + quote + '" target="_blank">Get wise' + '</a>',
   "<br>"
 ];
 
@@ -55,12 +60,12 @@ drawings = [
 
 help = [
   "<br>",
-  '<span class="command">whoishe</span>        Who is Frank',
+  '<span class="command">whoishe</span>        Who is Loic',
   '<span class="command">whoami</span>         Big question for a little fellow like you mate',
   '<span class="command">social</span>         Display social networks (and die)',
 
   '<span class="command">projects</span>       View coding projects',
-  '<span class="command">drawings</span>       View Drawing projects',
+
   '<span class="command">history</span>        View command history, your memory is in an even worst state than your face... gosh',
   '<span class="command">help</span>           It does feel kind of redondant innit...',
   '<span class="command">email</span>          Do not email me, it is not a drill, DO NOT',
@@ -71,7 +76,7 @@ help = [
 ];
 
 banner = [
-  "<span class='index'>Frank's consciousness entering............. </span>",
+  "<span class='index'>Loic's consciousness entering............. </span>",
   '<span style="color:red">error, psychosis found! AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH<br/> Escape while you can!!!!',
   '<span> overwriting... All clear<br>Mind rested, pathovirus exterminated',
   
